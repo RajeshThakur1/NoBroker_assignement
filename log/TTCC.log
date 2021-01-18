@@ -264,3 +264,33 @@
 2021-01-16 03:52:35,377 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on save change
 2021-01-16 03:52:36,505 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Pop up has been verified
 2021-01-16 03:52:36,505 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Done!!!
+2021-01-18 12:00:44,057 [main] INFO com.nobroker.testcases.VerifyAbuseReport - initilizing framework
+2021-01-18 12:01:07,297 [main] INFO com.nobroker.testcases.VerifyAbuseReport - TimeOut:30
+2021-01-18 12:21:49,880 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - initilizing framework
+2021-01-18 12:22:08,620 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - TimeOut:30
+2021-01-18 12:22:14,736 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - Testing
+2021-01-18 12:22:19,634 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - Buy option has been selected
+2021-01-18 12:22:25,280 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on the Search box
+2021-01-18 12:22:26,512 [TestNG-tests-1] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on city drop down
+2021-01-18 12:24:57,725 [main] INFO com.nobroker.testcases.VerifyAbuseReport - initilizing framework
+2021-01-18 12:25:13,391 [main] INFO com.nobroker.testcases.VerifyAbuseReport - TimeOut:30
+2021-01-18 12:25:17,642 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Testing
+2021-01-18 12:25:23,125 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Buy option has been selected
+2021-01-18 12:25:24,564 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on the Search box
+2021-01-18 12:25:27,780 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on city drop down
+2021-01-18 12:25:33,717 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Bangalore city has been selected
+2021-01-18 12:25:55,705 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Marathalli selected
+2021-01-18 12:26:06,252 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Marathalli has been selected as a locality
+2021-01-18 12:26:27,235 [main] INFO com.nobroker.testcases.VerifyAbuseReport - HSR has been selected as a locality
+2021-01-18 12:26:31,317 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Near by Radio btn clicked
+2021-01-18 12:26:34,246 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Number of Bedroom section displayed
+2021-01-18 12:26:36,714 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Two BHK selected
+2021-01-18 12:26:39,192 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Three BHK selected
+2021-01-18 12:27:10,208 [main] INFO com.nobroker.testcases.VerifyAbuseReport - property selected
+2021-01-18 12:27:28,601 [main] INFO com.nobroker.pageobject.CommonElements - Option found where user want to click
+2021-01-18 12:27:31,239 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on the wrong info
+2021-01-18 12:27:51,858 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on report btn
+2021-01-18 12:28:06,214 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Test Message added
+2021-01-18 12:28:08,593 [main] INFO com.nobroker.testcases.VerifyAbuseReport - clicked on save change
+2021-01-18 12:28:10,453 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Pop up has been verified
+2021-01-18 12:28:11,017 [main] INFO com.nobroker.testcases.VerifyAbuseReport - Done!!!

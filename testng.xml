@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="NoBroker" parallel="tests" verbose="10">
+	<listeners>
+		<listener class-name="com.nobroker.generic.Reporting" />
+
+	</listeners>
+	<test name="NoBrocker">
+	
+  
+    <classes>
+      <class name="com.nobroker.testcases.VerifyAbuseReport">
+      	  <methods>
+      	  		<include name="verify_Abuse_Report" />
+      	  </methods>
+      </class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

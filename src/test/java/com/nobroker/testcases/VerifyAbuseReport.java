@@ -1,6 +1,8 @@
 package com.nobroker.testcases;
 
 import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
+import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
 import com.nobroker.automationconstants.BaseTest;

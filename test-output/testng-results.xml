@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="99760" started-at="2021-01-15T22:20:56Z" finished-at="2021-01-15T22:22:36Z">
+  <suite name="Default suite" duration-ms="195580" started-at="2021-01-18T06:54:57Z" finished-at="2021-01-18T06:58:13Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="99760" started-at="2021-01-15T22:20:56Z" finished-at="2021-01-15T22:22:36Z">
+    <test name="Default test" duration-ms="195580" started-at="2021-01-18T06:54:57Z" finished-at="2021-01-18T06:58:13Z">
       <class name="com.nobroker.testcases.VerifyAbuseReport">
-        <test-method status="PASS" signature="initApplication()[pri:0, instance:com.nobroker.testcases.VerifyAbuseReport@3e58a80e]" name="initApplication" is-config="true" duration-ms="15073" started-at="2021-01-15T22:20:56Z" finished-at="2021-01-15T22:21:11Z">
+        <test-method status="PASS" signature="initApplication()[pri:0, instance:com.nobroker.testcases.VerifyAbuseReport@42bc14c1]" name="initApplication" is-config="true" duration-ms="15724" started-at="2021-01-18T06:54:57Z" finished-at="2021-01-18T06:55:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initApplication -->
-        <test-method status="PASS" signature="verify_Abuse_Report()[pri:0, instance:com.nobroker.testcases.VerifyAbuseReport@3e58a80e]" name="verify_Abuse_Report" duration-ms="84667" started-at="2021-01-15T22:21:11Z" finished-at="2021-01-15T22:22:36Z">
+        <test-method status="PASS" signature="verify_Abuse_Report()[pri:0, instance:com.nobroker.testcases.VerifyAbuseReport@42bc14c1]" name="verify_Abuse_Report" duration-ms="179821" started-at="2021-01-18T06:55:13Z" finished-at="2021-01-18T06:58:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verify_Abuse_Report -->

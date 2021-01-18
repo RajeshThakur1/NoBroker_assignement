@@ -264,3 +264,33 @@
 2021-01-16 03:52:35,377 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on save change
 2021-01-16 03:52:36,505 - com.nobroker.testcases.VerifyAbuseReport -INFO - Pop up has been verified
 2021-01-16 03:52:36,505 - com.nobroker.testcases.VerifyAbuseReport -INFO - Done!!!
+2021-01-18 12:00:44,057 - com.nobroker.testcases.VerifyAbuseReport -INFO - initilizing framework
+2021-01-18 12:01:07,297 - com.nobroker.testcases.VerifyAbuseReport -INFO - TimeOut:30
+2021-01-18 12:21:49,880 - com.nobroker.testcases.VerifyAbuseReport -INFO - initilizing framework
+2021-01-18 12:22:08,620 - com.nobroker.testcases.VerifyAbuseReport -INFO - TimeOut:30
+2021-01-18 12:22:14,736 - com.nobroker.testcases.VerifyAbuseReport -INFO - Testing
+2021-01-18 12:22:19,634 - com.nobroker.testcases.VerifyAbuseReport -INFO - Buy option has been selected
+2021-01-18 12:22:25,280 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on the Search box
+2021-01-18 12:22:26,512 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on city drop down
+2021-01-18 12:24:57,725 - com.nobroker.testcases.VerifyAbuseReport -INFO - initilizing framework
+2021-01-18 12:25:13,391 - com.nobroker.testcases.VerifyAbuseReport -INFO - TimeOut:30
+2021-01-18 12:25:17,642 - com.nobroker.testcases.VerifyAbuseReport -INFO - Testing
+2021-01-18 12:25:23,125 - com.nobroker.testcases.VerifyAbuseReport -INFO - Buy option has been selected
+2021-01-18 12:25:24,564 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on the Search box
+2021-01-18 12:25:27,780 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on city drop down
+2021-01-18 12:25:33,717 - com.nobroker.testcases.VerifyAbuseReport -INFO - Bangalore city has been selected
+2021-01-18 12:25:55,705 - com.nobroker.testcases.VerifyAbuseReport -INFO - Marathalli selected
+2021-01-18 12:26:06,252 - com.nobroker.testcases.VerifyAbuseReport -INFO - Marathalli has been selected as a locality
+2021-01-18 12:26:27,235 - com.nobroker.testcases.VerifyAbuseReport -INFO - HSR has been selected as a locality
+2021-01-18 12:26:31,317 - com.nobroker.testcases.VerifyAbuseReport -INFO - Near by Radio btn clicked
+2021-01-18 12:26:34,246 - com.nobroker.testcases.VerifyAbuseReport -INFO - Number of Bedroom section displayed
+2021-01-18 12:26:36,714 - com.nobroker.testcases.VerifyAbuseReport -INFO - Two BHK selected
+2021-01-18 12:26:39,192 - com.nobroker.testcases.VerifyAbuseReport -INFO - Three BHK selected
+2021-01-18 12:27:10,208 - com.nobroker.testcases.VerifyAbuseReport -INFO - property selected
+2021-01-18 12:27:28,601 - com.nobroker.pageobject.CommonElements -INFO - Option found where user want to click
+2021-01-18 12:27:31,239 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on the wrong info
+2021-01-18 12:27:51,858 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on report btn
+2021-01-18 12:28:06,214 - com.nobroker.testcases.VerifyAbuseReport -INFO - Test Message added
+2021-01-18 12:28:08,593 - com.nobroker.testcases.VerifyAbuseReport -INFO - clicked on save change
+2021-01-18 12:28:10,453 - com.nobroker.testcases.VerifyAbuseReport -INFO - Pop up has been verified
+2021-01-18 12:28:11,017 - com.nobroker.testcases.VerifyAbuseReport -INFO - Done!!!
